@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    margin: 0;
+    padding: 0;
+    background-repeat: repeat;
+    background-image: url('assets/images/dog-paw-seamless-pattern-bone-french-bulldog-footprint-tile-background-repeat-wallpaper-scarf-isolated-illustration-cartoon-gift-wrap-vector.jpg');
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
